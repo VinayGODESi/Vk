@@ -1,4 +1,6 @@
 import streamlit as st
+API_KEY = st.secrets["K81308556488957"]
+import streamlit as st
 import requests
 from PIL import Image
 import io
