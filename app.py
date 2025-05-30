@@ -1,5 +1,5 @@
 import streamlit as st
-API_KEY = st.secrets["K81308556488957"]
+API_KEY = st.secrets["OCR_SPACE_API_KEY"]
 import streamlit as st
 import requests
 from PIL import Image
